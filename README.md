@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Riachuelo with Business Intelligence
+- 🔭 I’m currently working on Riachuelo's with Business Intelligence
 - 🌱 I’m currently learning all of about Azure
 
 #### Follow me on my social networks:
