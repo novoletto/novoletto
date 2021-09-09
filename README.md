@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Riachuelo's with Business Intelligence
-- 🌱 I’m currently learning all of about Azure
+- 🌱 I’m preparing me to conquest my certified Azure DP-203
 
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/novoletto)](https://github.com/novoletto)
